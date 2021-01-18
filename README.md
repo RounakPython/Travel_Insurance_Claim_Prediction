@@ -1,7 +1,7 @@
 # Travel Insurance Claim Prediction
 ## Will They Claim It ?
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maha-prathamesh/Travel-Insurance-Project/main/travel1.jpg" width="1200" height="500" title="hover text">
+  <img src="https://raw.githubusercontent.com/maha-prathamesh/Travel-Insurance-Project/main/travel1.jpg" width="1200" height="430" title="hover text">
 </p>
 SafeTravel Inc. is one of the world's largest insurance companies specializing in travel insurance. During travel, there are a lot of risk factors - loss of baggage, airline cancellations, health issues etc. The potential customers are travellers who want to insure themselves against travel-related risks. They have different product offerings like 1-way travel insurance, 2-way insurance, insurance against cancellations and so on. They receive thousands of claims spread across different products.
 
