@@ -7,8 +7,11 @@ SafeTravel Inc. is one of the world's largest insurance companies specializing i
 
 Wrongly denying a genuine claim could lead to lawsuits against the company and approving the wrong claim would lead to a loss. Automatically predicting the claims could lead to a lot of benefits and solve some other supplementary problems too. As a team of data scientists consulting for SafeTravel Inc, you are now responsible for meeting their business outcomes.
 
+Web Application : <br>
+[Will They Claim It?](https://willtheyclaimit.herokuapp.com/)
+<br>
 Full Presentation : <br>
-[Will They Claim It?](https://github.com/RounakPython/Travel_Insurance_Claim_Prediction/blob/main/Will_They_Claim_It.pdf)
+[Presentation](https://github.com/RounakPython/Travel_Insurance_Claim_Prediction/blob/main/Will_They_Claim_It.pdf)
 <br>
 Approach Notes:<br>
 [Appraoch_Notes](https://github.com/RounakPython/Travel_Insurance_Claim_Prediction/blob/main/ApproachNote.txt)
