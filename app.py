@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-from flask import Flask, render_template, request
-import jsonify
+from flask import Flask, render_template, request, jsonify
+#import jsonify
 import requests
 import pickle
 
