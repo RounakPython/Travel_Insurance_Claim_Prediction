@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-from flask import Flask, render_template, request, jsonify
-#import jsonify
-import requests
+import numpy as np
+from flask import Flask, request, jsonify, render_template
 import pickle
 
 model = pickle.load(open('model.pkl', 'rb'))
